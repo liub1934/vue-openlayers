@@ -117,9 +117,6 @@ export default {
     }
   },
   methods: {
-    handleChange (val) {
-      console.log(val)
-    },
     open () {
       this.visible = true
     },
