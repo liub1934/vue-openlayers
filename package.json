@@ -9,6 +9,9 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
+    "ol": "^5.3.3",
+    "element-ui": "^2.10.0",
+    "good-storage": "^1.1.0",
     "vue": "^2.6.10"
   },
   "devDependencies": {
@@ -19,6 +22,8 @@
     "babel-eslint": "^10.0.1",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
-    "vue-template-compiler": "^2.6.10"
+    "vue-template-compiler": "^2.6.10",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^7.1.0"
   }
 }

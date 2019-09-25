@@ -1,5 +1,7 @@
 # vue-openlayers
 
+基于vue+高德贴图+openlayers简单实现一个地图区域划分。
+
 ## Project setup
 ```
 npm install
